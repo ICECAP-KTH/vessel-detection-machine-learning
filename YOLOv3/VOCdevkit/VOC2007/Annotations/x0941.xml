@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coast_ship</folder>
+	<filename>x0941.png</filename>
+	<path>C:\Users\Tofahito\Documents\PHD\NUEVAS_IMAGES_A_ETIQUETAR\coast_ship\x0941.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>133</ymin>
+			<xmax>329</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

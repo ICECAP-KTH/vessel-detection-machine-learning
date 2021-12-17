@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>s0437.png</filename>
+	<path>C:\Users\Tofahito\Documents\PHD\barcos\etiquetas\ship\s0437.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>350</ymin>
+			<xmax>125</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

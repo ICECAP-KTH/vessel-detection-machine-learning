@@ -1,0 +1,566 @@
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/64.jpg0_1.jpg 314,22,317,25,0 148,339,157,348,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/40.jpg0_0.jpg 478,278,487,288,0 234,399,237,402,0 15,417,20,421,0 485,466,488,469,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg3_3.jpg 411,122,415,125,0 79,417,88,426,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg1_1.jpg 17,0,24,5,0 236,65,243,71,0 304,108,313,119,0 0,452,8,460,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/71.jpg1_0.jpg 53,121,62,131,0 28,280,37,289,0 370,387,374,392,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/67.jpg1_0.jpg 54,121,63,130,0 94,140,99,143,0 444,437,452,443,0 370,440,373,443,0 374,460,380,470,0 22,464,25,467,0 105,506,113,511,0 160,509,164,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/75.jpg1_1.jpg 132,37,136,41,0 318,276,321,279,0 419,307,423,312,0 392,325,396,328,0 374,346,379,351,0 418,399,422,403,0 244,462,254,471,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg1_0.jpg 260,157,268,165,0 309,222,313,226,0 260,227,269,235,0 227,301,231,304,0 229,305,236,311,0 406,309,410,315,0 49,352,54,358,0 427,425,432,430,0 143,434,148,438,0 238,508,247,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg1_2.jpg 0,2,9,12,0 262,21,270,27,0 41,60,48,68,0 487,81,491,86,0 213,327,222,338,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/36.jpg0_0.jpg 478,279,487,288,0 253,414,256,417,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/29.jpg0_2.jpg 452,51,457,61,0 380,270,387,278,0 198,344,208,352,0 488,449,492,453,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/28.jpg1_1.jpg 129,35,133,39,0 254,168,257,173,0 210,173,213,181,0 147,397,150,403,0 230,453,234,457,0 395,508,398,511,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/13.jpg2_1.jpg 349,373,354,378,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/20.jpg1_2.jpg 262,48,267,53,0 142,121,146,126,0 62,371,65,375,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/80.jpg0_1.jpg 148,341,157,350,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/78.jpg0_1.jpg 149,340,157,348,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg1_1.jpg 16,0,23,5,0 235,65,242,71,0 304,112,309,119,0 0,451,7,460,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg0_3.jpg 166,0,172,6,0 67,60,76,66,0 66,147,73,156,0 301,216,310,226,0 396,272,406,280,0 312,308,320,314,0 353,467,359,473,0 293,469,298,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/66.jpg1_1.jpg 101,25,104,28,0 384,117,390,121,0 326,384,334,392,0 199,457,206,465,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/17.jpg1_2.jpg 216,27,226,37,0 102,104,106,109,0 486,342,490,345,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/15.jpg0_2.jpg 425,222,432,230,0 198,344,208,353,0 1,422,6,429,0 3,456,7,460,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg5_5.jpg 381,61,388,69,0 162,93,168,104,0 475,186,478,190,0 285,282,293,293,0 459,293,462,296,0 392,330,397,333,0 417,344,420,347,0 344,346,347,350,0 474,363,478,366,0 305,376,309,379,0 455,385,458,388,0 337,416,340,419,0 255,472,259,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/38.jpg1_1.jpg 45,15,49,18,0 96,15,105,20,0 180,19,190,24,0 232,34,236,37,0 410,141,415,150,0 478,310,485,316,0 439,324,443,328,0 300,357,303,360,0 242,425,252,433,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/31.jpg2_0.jpg 389,139,395,146,0 88,150,97,159,0 53,173,60,182,0 6,338,15,346,0 302,441,308,448,0 439,494,448,502,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg0_2.jpg 447,6,452,11,0 491,59,498,68,0 307,70,313,75,0 275,76,283,84,0 358,89,369,99,0 41,122,47,131,0 0,204,2,210,0 206,234,212,242,0 22,402,29,411,0 192,455,196,460,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/33.jpg0_1.jpg 176,168,182,174,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/37.jpg0_1.jpg 315,18,321,25,0 322,177,325,180,0 148,341,157,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/20.jpg1_1.jpg 193,344,199,353,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg1_2.jpg 0,3,5,10,0 41,61,47,67,0 213,327,221,338,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg0_0.jpg 416,140,419,144,0 500,353,503,357,0 388,416,392,421,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/81.jpg1_0.jpg 174,112,177,115,0 54,120,63,131,0 96,140,99,143,0 28,279,37,289,0 241,293,244,296,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/85.jpg0_0.jpg 506,123,509,126,0 477,279,486,288,0 314,471,319,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg4_4.jpg 481,101,491,111,0 379,248,388,258,0 348,271,356,278,0 289,308,299,318,0 247,364,256,373,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/14.jpg0_2.jpg 198,345,207,353,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/7.jpg0_0.jpg 57,43,64,48,0 422,173,429,179,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/85.jpg0_1.jpg 314,20,320,25,0 149,339,157,348,0 138,370,141,374,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg2_0.jpg 502,341,512,351,0 487,435,490,438,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/67.jpg1_1.jpg 374,14,380,19,0 124,37,127,40,0 412,338,416,342,0 460,357,466,362,0 391,362,398,368,0 324,414,332,419,0 325,439,328,442,0 38,468,42,475,0 132,480,140,484,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/10.jpg0_1.jpg 180,171,184,175,0 372,229,375,232,0 183,354,186,357,0 349,380,355,386,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg4_3.jpg 48,108,55,116,0 318,215,321,218,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/75.jpg1_0.jpg 53,121,63,131,0 95,140,99,144,0 28,279,37,289,0 241,293,244,296,0 133,488,136,491,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg3_5.jpg 256,22,262,26,0 214,34,218,46,0 61,50,64,54,0 72,67,75,70,0 102,98,106,109,0 467,278,477,282,0 502,281,506,286,0 452,304,459,308,0 208,340,217,344,0 300,355,304,360,0 323,368,333,372,0 272,376,275,380,0 251,383,256,387,0 50,433,54,436,0 138,436,142,440,0 170,445,173,448,0 45,453,48,456,0 37,474,40,477,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg5_1.jpg 352,46,356,50,0 430,264,433,268,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/74.jpg0_0.jpg 328,109,335,113,0 477,279,487,288,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg4_0.jpg 350,19,354,23,0 109,54,118,64,0 81,65,90,73,0 253,84,262,91,0 351,190,355,198,0 74,218,77,222,0 51,262,58,270,0 226,352,229,356,0 56,372,62,379,0 349,405,355,414,0 163,410,170,419,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/60.jpg1_0.jpg 53,121,63,131,0 95,140,98,143,0 27,279,37,289,0 359,284,367,293,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/49.jpg0_0.jpg 505,128,512,135,0 478,284,487,294,0 284,342,288,348,0 315,476,321,481,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg4_5.jpg 366,153,369,156,0 343,222,354,232,0 312,433,321,441,0 284,462,293,472,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/12.jpg0_2.jpg 198,345,208,353,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/60.jpg0_0.jpg 477,279,487,288,0 316,468,320,474,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/8.jpg1_1.jpg 342,344,345,347,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/71.jpg0_1.jpg 476,408,480,412,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg1_3.jpg 177,83,185,93,0 261,107,270,117,0 244,162,253,173,0 397,373,400,376,0 164,377,171,383,0 268,387,271,392,0 320,410,323,413,0 330,413,333,416,0 221,458,230,467,0 348,468,352,475,0 410,472,413,475,0 307,476,317,480,0 47,509,57,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/9.jpg0_2.jpg 198,344,208,353,0 1,422,6,429,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg0_1.jpg 467,0,472,4,0 263,174,271,184,0 142,292,153,302,0 204,304,208,308,0 201,311,205,314,0 40,403,48,412,0 304,405,308,408,0 447,455,450,458,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/50.jpg1_0.jpg 319,29,322,33,0 54,120,63,130,0 230,127,235,131,0 96,139,100,143,0 212,150,218,154,0 220,179,224,188,0 28,279,37,288,0 241,292,245,295,0 286,419,289,422,0 481,480,484,483,0 108,508,114,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg2_2.jpg 120,134,124,141,0 316,153,322,158,0 80,415,84,422,0 96,447,101,454,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg3_2.jpg 22,107,27,111,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg0_5.jpg 403,25,413,35,0 131,64,139,74,0 175,90,181,97,0 474,91,477,94,0 40,180,50,190,0 227,211,234,221,0 394,223,401,231,0 354,227,364,237,0 259,301,262,305,0 328,316,332,319,0 301,380,310,391,0 405,380,414,390,0 430,410,433,413,0 411,459,420,467,0 307,461,313,467,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/10.jpg1_1.jpg 160,233,165,238,0 432,270,441,279,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/85.jpg1_0.jpg 53,120,62,130,0 96,138,101,143,0 27,279,36,288,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg1_4.jpg 220,13,229,18,0 172,40,178,45,0 377,74,380,77,0 377,78,382,84,0 236,86,241,94,0 331,284,339,289,0 185,416,190,422,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/20.jpg2_2.jpg 134,425,140,433,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg0_3.jpg 164,0,173,8,0 252,0,259,3,0 69,62,72,65,0 66,121,69,125,0 66,147,75,156,0 301,216,311,227,0 246,257,249,260,0 397,272,407,281,0 312,308,320,315,0 347,411,350,414,0 353,466,361,475,0 292,470,299,476,0 499,509,507,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/45.jpg0_1.jpg 322,178,326,181,0 152,341,157,347,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/34.jpg2_2.jpg 276,131,279,134,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/45.jpg0_0.jpg 506,123,512,130,0 479,279,487,288,0 240,364,248,371,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg0_1.jpg 430,0,436,3,0 467,0,473,5,0 263,174,271,185,0 295,177,299,181,0 143,293,153,303,0 204,305,208,309,0 201,311,206,315,0 41,403,47,410,0 305,405,308,408,0 448,455,452,459,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/37.jpg1_1.jpg 130,37,133,40,0 262,41,267,45,0 413,183,416,186,0 440,354,444,358,0 408,454,413,461,0 194,456,201,464,0 282,463,287,468,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/24.jpg2_2.jpg 125,253,129,257,0 362,344,365,347,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/25.jpg2_0.jpg 441,496,444,499,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/82.jpg1_1.jpg 294,18,298,30,0 188,19,192,29,0 476,35,480,40,0 438,40,442,46,0 410,119,415,128,0 454,308,458,316,0 484,310,493,314,0 456,339,461,344,0 300,359,305,364,0 190,387,196,395,0 334,397,338,402,0 124,405,127,411,0 144,411,147,414,0 197,416,203,420,0 132,430,141,434,0 364,434,368,445,0 230,438,237,442,0 101,449,107,458,0 446,451,450,461,0 376,464,382,474,0 311,468,316,474,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/33.jpg2_2.jpg 446,123,450,128,0 83,135,89,141,0 86,158,90,162,0 338,335,343,339,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/31.jpg0_2.jpg 198,344,208,353,0 2,424,5,427,0 462,441,468,446,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg5_4.jpg 361,57,365,63,0 31,102,41,112,0 364,305,372,312,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/24.jpg0_0.jpg 30,38,33,41,0 57,43,61,47,0 422,172,428,178,0 132,330,135,333,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg1_0.jpg 309,111,313,115,0 259,157,267,165,0 16,187,19,191,0 360,219,363,223,0 260,227,269,234,0 229,307,233,310,0 49,353,53,358,0 142,434,146,437,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg0_4.jpg 69,0,74,2,0 353,16,361,25,0 292,20,299,26,0 0,89,5,97,0 145,90,148,95,0 391,108,397,117,0 5,222,14,231,0 38,369,48,379,0 155,448,165,457,0 182,462,187,469,0 404,476,413,486,0 6,502,11,509,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg5_5.jpg 286,283,291,291,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/29.jpg1_0.jpg 250,45,254,50,0 104,63,107,68,0 312,384,315,388,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/16.jpg0_2.jpg 198,344,208,353,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/29.jpg1_1.jpg 174,46,178,51,0 79,481,84,487,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/14.jpg0_1.jpg 175,169,181,175,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg4_5.jpg 344,221,355,231,0 313,432,321,441,0 284,462,293,468,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/77.jpg0_1.jpg 148,341,157,350,0 291,349,294,352,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg2_4.jpg 174,11,179,17,0 197,36,200,39,0 36,56,39,59,0 275,80,278,83,0 196,83,199,86,0 114,86,125,90,0 71,135,74,138,0 70,145,74,148,0 291,178,294,182,0 146,196,149,199,0 119,202,122,205,0 85,209,88,212,0 141,238,147,245,0 145,328,148,331,0 77,355,80,358,0 66,376,69,380,0 307,470,315,474,0 99,486,109,490,0 187,488,190,491,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/11.jpg0_0.jpg 422,173,427,178,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg2_1.jpg 33,13,39,22,0 41,152,44,156,0 392,410,395,414,0 390,476,396,482,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg3_5.jpg 92,114,95,117,0 99,141,104,147,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/68.jpg1_1.jpg 124,34,127,37,0 398,67,401,70,0 428,116,432,123,0 445,290,451,296,0 291,361,294,364,0 279,488,284,492,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/66.jpg1_0.jpg 58,120,66,129,0 32,280,37,286,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/8.jpg0_0.jpg 424,173,428,177,0 133,330,136,333,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/35.jpg0_0.jpg 453,76,457,81,0 422,172,428,178,0 18,361,23,366,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg0_0.jpg 387,125,391,129,0 499,352,503,357,0 387,414,392,420,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/28.jpg1_0.jpg 471,52,475,57,0 336,185,339,188,0 266,329,269,333,0 159,377,162,380,0 229,377,233,381,0 400,447,403,451,0 130,485,133,488,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg2_0.jpg 329,274,332,278,0 503,342,511,350,0 89,400,92,406,0 33,463,39,472,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/51.jpg0_0.jpg 476,279,486,289,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/55.jpg1_0.jpg 243,17,249,23,0 294,70,301,77,0 226,88,234,98,0 53,124,63,134,0 94,143,99,146,0 365,172,372,181,0 367,246,373,257,0 27,282,37,292,0 355,290,360,296,0 156,453,166,459,0 281,490,289,496,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/54.jpg0_1.jpg 315,21,321,25,0 323,176,326,179,0 149,340,158,348,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/13.jpg1_2.jpg 192,429,195,433,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/73.jpg0_0.jpg 504,121,512,129,0 479,279,487,287,0 432,345,440,354,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/33.jpg0_2.jpg 198,344,208,352,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg0_1.jpg 262,174,270,184,0 294,177,297,181,0 144,294,147,298,0 447,453,452,458,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/29.jpg2_2.jpg 149,113,154,119,0 146,188,149,192,0 14,404,17,407,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg5_4.jpg 361,56,364,63,0 367,306,373,312,0 382,510,388,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/26.jpg2_2.jpg 157,70,161,74,0 102,245,105,248,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/54.jpg1_1.jpg 132,39,135,42,0 382,59,385,64,0 440,60,443,63,0 366,99,369,102,0 420,142,423,145,0 466,318,471,323,0 83,356,87,360,0 440,358,445,363,0 139,403,147,408,0 293,429,296,432,0 323,430,328,435,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/58.jpg1_0.jpg 217,42,220,45,0 54,120,63,130,0 97,139,100,142,0 28,279,37,288,0 285,422,290,426,0 108,509,114,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/87.jpg0_0.jpg 476,279,486,289,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/56.jpg1_1.jpg 385,19,393,29,0 223,37,226,45,0 334,67,338,72,0 348,102,352,105,0 161,213,164,217,0 450,316,453,319,0 486,350,490,353,0 364,352,368,356,0 429,364,433,368,0 306,382,312,389,0 426,401,434,406,0 264,429,270,435,0 342,456,347,461,0 310,468,317,474,0 240,488,243,491,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/71.jpg1_1.jpg 27,407,32,411,0 70,408,73,411,0 66,415,69,418,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/31.jpg1_0.jpg 139,255,143,264,0 365,309,370,315,0 104,334,108,339,0 371,334,377,344,0 456,337,465,347,0 244,358,249,364,0 410,362,415,368,0 338,428,342,433,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/35.jpg1_2.jpg 39,266,45,271,0 329,321,332,324,0 427,395,430,398,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg4_5.jpg 361,151,369,158,0 344,222,354,232,0 312,432,322,441,0 284,461,293,470,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg3_1.jpg 354,378,357,381,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/61.jpg1_1.jpg 132,38,135,41,0 348,87,352,92,0 404,123,409,128,0 454,128,458,133,0 490,140,495,150,0 449,329,452,332,0 335,355,338,358,0 378,376,382,379,0 273,393,277,397,0 357,416,361,422,0 205,456,210,461,0 280,465,285,470,0 193,478,198,483,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/24.jpg2_0.jpg 158,68,163,74,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/57.jpg1_0.jpg 220,108,224,112,0 53,123,63,133,0 94,141,99,145,0 212,191,216,194,0 360,196,364,202,0 108,222,113,226,0 459,270,464,276,0 27,281,36,290,0 155,464,161,469,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg4_4.jpg 481,102,491,112,0 378,248,388,259,0 348,271,356,279,0 289,309,299,319,0 247,362,257,373,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/54.jpg0_0.jpg 478,279,487,288,0 315,471,321,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg1_4.jpg 221,10,230,19,0 173,41,177,45,0 377,74,383,84,0 237,86,241,92,0 278,93,283,99,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg4_1.jpg 133,169,137,173,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/17.jpg0_1.jpg 348,380,352,384,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg3_4.jpg 232,103,236,106,0 224,148,229,153,0 192,178,195,181,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/17.jpg2_0.jpg 165,306,168,309,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/24.jpg1_0.jpg 363,203,367,208,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/34.jpg0_0.jpg 57,43,62,47,0 422,172,428,177,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/46.jpg0_0.jpg 503,125,512,135,0 478,284,488,293,0 510,510,512,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg1_0.jpg 260,157,268,165,0 261,227,269,234,0 229,305,235,311,0 49,352,54,358,0 144,435,147,438,0 238,508,248,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/70.jpg1_1.jpg 131,38,134,41,0 453,86,457,90,0 322,92,329,98,0 457,110,460,113,0 398,322,402,327,0 242,479,248,484,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/32.jpg0_0.jpg 422,172,428,178,0 16,356,20,361,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/25.jpg0_0.jpg 422,173,428,178,0 18,366,22,372,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg4_0.jpg 297,43,304,47,0 109,54,119,64,0 81,64,90,73,0 350,189,356,197,0 72,216,77,221,0 14,246,17,250,0 51,261,58,270,0 56,372,63,379,0 349,405,355,414,0 163,410,170,418,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/48.jpg1_0.jpg 173,113,177,117,0 53,122,63,133,0 95,141,100,145,0 352,195,356,200,0 27,280,37,290,0 462,464,467,468,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg5_5.jpg 379,62,388,72,0 287,283,291,288,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/19.jpg2_1.jpg 264,116,272,123,0 294,199,297,202,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/53.jpg0_0.jpg 452,44,462,48,0 486,86,490,89,0 476,279,486,289,0 316,468,319,472,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg5_0.jpg 79,198,86,202,0 461,290,467,296,0 371,320,376,324,0 288,324,291,327,0 408,349,416,356,0 450,363,453,366,0 383,413,386,416,0 437,414,443,419,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/73.jpg1_0.jpg 54,120,64,130,0 29,279,37,287,0 378,401,382,406,0 130,488,133,491,0 85,496,89,500,0 106,506,113,510,0 159,509,165,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/77.jpg0_0.jpg 477,280,486,290,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg1_3.jpg 177,83,186,93,0 261,107,271,118,0 244,163,254,173,0 164,377,172,384,0 221,460,230,469,0 49,510,57,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg0_5.jpg 155,0,165,10,0 182,13,186,19,0 404,26,414,36,0 133,65,140,74,0 473,90,479,97,0 176,93,179,96,0 0,130,3,138,0 40,180,50,190,0 227,212,234,221,0 394,224,402,231,0 354,228,363,238,0 258,299,266,307,0 326,315,333,321,0 301,381,310,391,0 405,382,413,392,0 411,459,420,469,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg4_3.jpg 373,154,376,157,0 422,210,426,215,0 346,250,350,253,0 296,267,299,270,0 296,294,299,297,0 362,304,365,308,0 151,390,154,395,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/17.jpg2_2.jpg 36,341,40,346,0 105,355,109,359,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/74.jpg1_1.jpg 468,351,473,355,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg4_0.jpg 109,55,119,65,0 81,65,90,73,0 334,90,342,96,0 356,125,365,130,0 351,190,356,198,0 74,218,78,223,0 40,236,44,240,0 51,261,59,271,0 55,372,63,380,0 163,409,172,419,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg3_4.jpg 232,103,236,107,0 191,177,198,183,0 137,308,142,314,0 382,506,390,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg5_2.jpg 347,231,350,234,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/50.jpg0_0.jpg 505,121,512,129,0 478,279,487,288,0 444,324,448,329,0 315,471,321,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/78.jpg1_1.jpg 332,414,336,418,0 255,467,262,473,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg4_3.jpg 48,108,56,116,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg1_5.jpg 65,69,70,74,0 256,71,260,75,0 24,91,27,96,0 0,114,3,122,0 21,187,26,192,0 133,216,138,219,0 109,220,116,228,0 174,238,185,247,0 96,290,103,295,0 89,313,95,320,0 123,326,126,330,0 100,360,106,365,0 327,464,334,470,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg3_1.jpg 429,15,435,20,0 142,67,152,77,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/28.jpg0_2.jpg 482,161,487,165,0 198,344,208,351,0 391,399,394,402,0 1,424,4,427,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg2_3.jpg 140,118,144,124,0 77,128,81,132,0 100,136,104,140,0 169,161,173,166,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/39.jpg1_0.jpg 53,120,63,131,0 231,127,235,131,0 345,134,350,139,0 95,140,99,143,0 405,187,409,191,0 362,188,368,198,0 305,224,315,234,0 28,278,37,288,0 436,448,441,456,0 99,476,102,479,0 453,483,457,488,0 125,484,128,487,0 105,506,109,509,0 110,508,113,511,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/8.jpg0_2.jpg 199,345,209,353,0 1,425,5,429,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/17.jpg1_0.jpg 163,78,170,87,0 101,141,104,146,0 310,195,313,200,0 457,378,461,382,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/43.jpg0_0.jpg 510,127,512,130,0 492,320,497,325,0 318,471,322,479,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/68.jpg1_0.jpg 53,120,63,131,0 95,139,99,143,0 395,181,401,186,0 464,213,467,217,0 28,279,37,288,0 241,292,244,295,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg1_4.jpg 221,11,230,19,0 171,40,177,45,0 376,74,383,84,0 235,86,242,96,0 330,284,339,290,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/71.jpg0_0.jpg 503,122,512,131,0 478,280,487,288,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg4_5.jpg 362,151,369,157,0 345,221,354,231,0 54,283,58,286,0 315,433,321,439,0 285,460,294,471,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/19.jpg0_1.jpg 176,170,181,175,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/28.jpg2_2.jpg 86,142,90,147,0 143,218,146,221,0 55,307,59,311,0 49,374,53,379,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg1_3.jpg 178,83,187,94,0 262,108,272,118,0 245,163,255,173,0 164,378,171,385,0 221,460,230,469,0 172,490,177,495,0 52,510,57,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg3_3.jpg 412,123,415,126,0 78,417,87,426,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/28.jpg1_2.jpg 395,57,399,61,0 246,66,249,69,0 32,161,37,165,0 367,267,370,271,0 499,376,502,379,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/21.jpg0_1.jpg 480,82,483,85,0 176,169,180,175,0 102,237,107,242,0 394,309,398,313,0 180,353,183,356,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/20.jpg1_0.jpg 246,125,252,131,0 328,166,335,175,0 231,286,235,290,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/51.jpg1_1.jpg 344,117,349,123,0 39,478,42,482,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/56.jpg0_0.jpg 504,124,512,132,0 478,283,486,291,0 411,419,415,423,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg3_4.jpg 191,178,198,185,0 382,508,390,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg4_2.jpg 244,131,250,135,0 299,386,306,394,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/27.jpg1_0.jpg 281,45,284,48,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/47.jpg1_1.jpg 476,26,481,33,0 108,33,111,36,0 490,61,496,68,0 485,148,490,154,0 434,168,440,176,0 417,300,420,303,0 478,317,482,321,0 451,332,457,339,0 172,375,178,379,0 322,392,331,402,0 239,434,246,439,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/22.jpg2_2.jpg 92,239,99,245,0 91,261,98,267,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/24.jpg0_1.jpg 344,412,347,415,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg5_5.jpg 378,63,388,72,0 287,283,292,288,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/16.jpg2_1.jpg 433,324,436,328,0 255,443,258,446,0 231,473,234,477,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg3_2.jpg 135,217,140,223,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg4_1.jpg 70,180,74,184,0 25,323,28,327,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/73.jpg0_1.jpg 150,340,157,347,0 404,489,408,492,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/20.jpg2_1.jpg 179,201,186,209,0 356,227,360,231,0 273,235,281,243,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/21.jpg2_2.jpg 219,107,226,116,0 259,118,262,122,0 170,178,178,186,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg0_2.jpg 446,4,452,10,0 491,60,498,67,0 358,88,368,97,0 360,224,363,228,0 293,276,296,279,0 21,401,29,410,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg1_4.jpg 221,8,230,17,0 348,20,352,27,0 307,22,317,26,0 410,22,413,25,0 377,73,380,77,0 237,89,240,92,0 278,92,283,98,0 434,94,446,98,0 451,206,461,210,0 334,285,339,289,0 434,312,437,315,0 157,395,160,398,0 185,416,188,420,0 418,438,430,442,0 67,476,75,484,0 130,478,141,482,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/47.jpg1_0.jpg 214,101,221,110,0 54,124,63,134,0 95,143,99,147,0 404,199,409,206,0 28,283,37,292,0 349,285,354,292,0 369,310,374,317,0 423,311,426,315,0 476,336,480,341,0 476,477,480,482,0 108,483,111,486,0 133,491,136,494,0 105,509,109,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/46.jpg0_1.jpg 149,343,158,352,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/43.jpg1_0.jpg 55,124,64,133,0 95,142,101,146,0 241,171,246,175,0 412,198,416,202,0 336,233,342,240,0 396,247,400,250,0 424,272,430,280,0 42,320,48,324,0 399,356,403,365,0 428,376,431,379,0 413,478,418,482,0 106,482,110,487,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/12.jpg2_2.jpg 181,364,185,367,0 29,391,33,395,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/83.jpg0_0.jpg 508,122,512,130,0 480,279,489,288,0 317,468,324,476,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/13.jpg1_1.jpg 116,354,119,357,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/80.jpg1_0.jpg 53,122,63,133,0 430,240,435,244,0 474,278,477,282,0 27,281,36,291,0 391,349,394,352,0 94,478,100,482,0 220,484,224,493,0 123,486,127,490,0 106,508,113,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/30.jpg0_2.jpg 198,344,208,353,0 446,377,450,381,0 134,416,137,420,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg1_1.jpg 17,0,22,3,0 236,65,242,70,0 304,108,313,118,0 185,322,190,326,0 0,451,6,458,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/37.jpg0_0.jpg 477,280,487,289,0 314,468,321,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg0_4.jpg 353,17,359,24,0 293,20,298,25,0 68,93,71,97,0 390,107,399,116,0 8,224,12,228,0 39,368,46,378,0 156,448,163,456,0 181,461,186,469,0 403,475,412,485,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg3_0.jpg 327,151,331,156,0 365,167,374,176,0 246,230,250,234,0 462,247,466,251,0 270,259,279,267,0 53,341,63,351,0 429,375,432,379,0 429,466,433,469,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/60.jpg1_1.jpg 485,65,488,69,0 457,90,463,97,0 377,356,385,365,0 294,436,299,441,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/21.jpg1_0.jpg 182,75,185,81,0 250,140,255,146,0 62,222,65,226,0 61,447,64,451,0 453,473,457,477,0 175,493,180,498,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/81.jpg0_0.jpg 478,279,487,289,0 314,467,320,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/58.jpg0_1.jpg 315,21,319,24,0 149,339,157,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg5_5.jpg 378,62,387,71,0 286,282,292,289,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg1_2.jpg 0,1,9,12,0 41,59,48,68,0 213,327,222,338,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/70.jpg0_1.jpg 314,17,321,26,0 148,340,157,348,0 359,377,363,381,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/66.jpg0_1.jpg 151,340,160,348,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/35.jpg2_0.jpg 58,345,62,350,0 93,361,97,365,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg0_2.jpg 447,6,451,10,0 492,59,498,68,0 308,71,311,74,0 275,76,283,84,0 358,89,369,99,0 0,202,3,211,0 205,233,213,242,0 133,347,139,353,0 22,403,29,410,0 192,453,196,462,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg1_2.jpg 0,1,7,11,0 41,59,47,67,0 213,327,221,338,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/44.jpg1_1.jpg 469,37,476,47,0 445,131,449,135,0 321,419,324,422,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg5_0.jpg 460,289,468,297,0 408,349,416,356,0 449,360,453,365,0 438,413,443,418,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/38.jpg0_0.jpg 359,162,362,165,0 477,279,486,289,0 470,408,474,411,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/49.jpg0_1.jpg 317,26,321,30,0 321,181,326,185,0 148,346,157,355,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg5_2.jpg 340,57,344,61,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/25.jpg2_2.jpg 421,70,425,75,0 50,125,54,130,0 89,325,93,329,0 346,376,350,382,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/26.jpg0_2.jpg 324,287,327,290,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg4_0.jpg 350,192,354,197,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/41.jpg0_1.jpg 322,179,325,182,0 148,342,158,351,0 279,360,284,364,0 38,388,42,394,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg1_0.jpg 259,156,267,164,0 260,226,269,234,0 226,300,230,303,0 228,304,235,310,0 48,351,53,358,0 143,433,147,437,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/12.jpg2_1.jpg 136,213,142,217,0 207,227,211,233,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/58.jpg0_0.jpg 505,121,512,129,0 478,279,487,289,0 315,471,319,474,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/10.jpg0_2.jpg 494,173,497,176,0 363,266,366,269,0 202,347,211,354,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/25.jpg0_2.jpg 436,94,441,99,0 198,345,208,353,0 1,422,5,429,0 445,432,449,437,0 4,456,8,459,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/10.jpg2_1.jpg 203,148,208,154,0 289,349,293,353,0 201,419,206,425,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/77.jpg1_0.jpg 310,25,315,32,0 53,122,63,132,0 95,141,98,145,0 405,169,409,172,0 27,280,36,289,0 402,288,406,293,0 93,479,97,482,0 106,507,109,510,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg1_5.jpg 67,28,77,32,0 130,28,142,32,0 253,67,261,76,0 386,80,391,84,0 21,90,28,96,0 0,112,3,122,0 438,147,442,157,0 464,173,467,177,0 484,208,492,212,0 109,221,114,227,0 174,238,184,247,0 97,290,101,293,0 88,311,96,319,0 99,356,107,365,0 399,389,404,394,0 102,410,112,417,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/17.jpg1_1.jpg 223,163,226,167,0 216,477,226,487,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/88.jpg0_0.jpg 478,279,487,288,0 332,374,335,377,0 358,436,365,440,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/15.jpg1_1.jpg 122,207,125,211,0 122,407,125,411,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/55.jpg0_1.jpg 148,343,157,352,0 382,401,388,404,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/16.jpg1_0.jpg 276,53,280,58,0 358,111,362,120,0 387,407,391,411,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg4_0.jpg 110,54,119,64,0 80,64,90,73,0 478,174,481,177,0 351,190,356,198,0 73,217,79,224,0 40,236,45,241,0 14,246,18,250,0 52,262,58,270,0 58,374,61,378,0 239,407,242,410,0 164,410,171,418,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg1_3.jpg 177,83,187,93,0 263,108,272,118,0 244,162,253,173,0 165,377,170,385,0 220,460,229,468,0 171,489,177,495,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg4_2.jpg 300,386,304,392,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/62.jpg0_0.jpg 418,85,426,89,0 477,278,487,288,0 208,379,213,383,0 280,438,289,443,0 380,444,383,447,0 314,467,321,476,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/14.jpg2_2.jpg 59,262,63,266,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/65.jpg0_0.jpg 504,124,510,129,0 476,279,486,289,0 231,341,239,346,0 472,377,475,381,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/73.jpg1_1.jpg 104,30,107,33,0 130,38,133,41,0 84,46,88,50,0 412,355,417,360,0 443,492,446,496,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/12.jpg1_1.jpg 211,276,220,285,0 281,279,286,286,0 318,374,327,383,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/26.jpg1_2.jpg 226,200,231,205,0 78,256,81,259,0 197,360,200,363,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg4_2.jpg 301,387,305,392,0 500,403,503,406,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/50.jpg1_1.jpg 81,27,84,30,0 481,29,485,34,0 131,39,134,42,0 404,104,409,112,0 474,105,478,108,0 453,151,458,156,0 466,180,470,184,0 416,270,424,275,0 402,317,407,322,0 394,339,397,342,0 455,345,463,352,0 384,375,391,379,0 278,384,282,387,0 470,386,474,398,0 336,408,339,411,0 239,436,244,440,0 211,474,220,483,0 277,485,285,489,0 125,490,128,493,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/76.jpg0_0.jpg 506,123,512,129,0 478,280,487,289,0 315,469,321,476,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg0_1.jpg 263,174,271,185,0 142,293,152,303,0 204,305,208,308,0 201,311,204,315,0 40,403,48,412,0 303,405,308,409,0 447,455,450,458,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/23.jpg0_2.jpg 198,346,207,353,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/19.jpg1_2.jpg 349,99,353,104,0 18,169,22,173,0 261,220,268,227,0 442,273,445,278,0 372,411,376,417,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/36.jpg1_0.jpg 247,48,256,58,0 174,112,177,115,0 54,121,61,129,0 28,279,37,288,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg5_1.jpg 348,446,354,454,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/79.jpg0_0.jpg 503,122,510,129,0 187,149,190,152,0 476,279,485,288,0 323,368,333,372,0 284,387,288,397,0 262,403,266,413,0 313,469,320,476,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/15.jpg0_1.jpg 176,169,182,176,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/47.jpg0_1.jpg 318,24,322,30,0 320,180,326,184,0 149,344,158,354,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/18.jpg0_2.jpg 203,292,206,295,0 198,344,208,353,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg4_1.jpg 106,64,110,68,0 134,444,139,451,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/67.jpg0_0.jpg 484,76,487,80,0 506,123,511,129,0 472,464,475,467,0 314,468,320,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/11.jpg1_1.jpg 169,429,174,434,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg0_3.jpg 67,61,76,66,0 66,148,74,157,0 402,153,405,156,0 301,217,310,227,0 396,273,406,281,0 312,309,319,315,0 353,468,358,474,0 293,471,298,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg2_2.jpg 37,81,41,86,0 32,361,36,365,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/37.jpg1_0.jpg 265,30,271,38,0 175,111,178,114,0 54,122,63,132,0 95,141,98,144,0 224,163,234,173,0 365,242,370,250,0 27,280,37,289,0 449,345,452,349,0 374,444,378,451,0 130,487,133,490,0 262,491,267,495,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/69.jpg1_0.jpg 54,123,63,133,0 28,282,37,291,0 42,406,45,409,0 380,464,385,473,0 305,486,308,490,0 126,487,129,491,0 493,492,496,495,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/46.jpg1_1.jpg 224,0,232,2,0 301,0,307,2,0 96,29,101,33,0 450,84,453,88,0 438,181,442,189,0 262,446,270,452,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg4_1.jpg 297,61,300,64,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/68.jpg0_1.jpg 148,340,158,348,0 309,377,313,381,0 363,397,366,400,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/25.jpg1_1.jpg 123,212,127,218,0 406,226,409,229,0 337,331,340,334,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg2_0.jpg 333,142,338,149,0 502,342,512,352,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg3_0.jpg 403,1,412,11,0 327,151,332,156,0 365,167,374,175,0 505,216,512,225,0 247,231,250,234,0 490,236,494,241,0 425,239,428,242,0 464,247,467,251,0 270,258,280,267,0 501,262,508,269,0 54,342,64,351,0 508,374,512,378,0 37,435,40,439,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/27.jpg0_0.jpg 424,171,430,177,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/57.jpg0_0.jpg 506,125,512,131,0 477,281,487,291,0 80,413,83,416,0 296,437,301,441,0 317,471,320,474,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg3_0.jpg 53,341,63,351,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/66.jpg0_0.jpg 481,280,488,286,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/29.jpg0_0.jpg 58,43,62,47,0 423,172,428,178,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg5_0.jpg 461,289,469,298,0 381,309,385,315,0 400,311,405,316,0 408,350,416,357,0 327,360,332,365,0 450,362,453,366,0 438,414,443,419,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/84.jpg1_1.jpg 455,116,462,120,0 482,341,486,345,0 338,397,344,404,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/30.jpg1_0.jpg 47,348,50,351,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg2_4.jpg 413,81,418,87,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg1_3.jpg 177,83,187,93,0 263,108,273,118,0 244,163,254,174,0 165,378,170,385,0 220,461,229,468,0 172,490,177,495,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg2_5.jpg 199,107,204,113,0 144,403,148,407,0 160,424,165,429,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/17.jpg0_2.jpg 355,263,359,267,0 270,332,277,340,0 199,346,208,353,0 404,413,407,416,0 1,425,6,429,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/6.jpg2_0.jpg 62,89,68,97,0 99,164,109,174,0 129,166,133,169,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/72.jpg0_1.jpg 314,22,317,25,0 148,339,157,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/11.jpg1_2.jpg 180,87,189,96,0 150,146,156,151,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg5_3.jpg 360,274,363,277,0 339,335,345,342,0 463,337,467,344,0 136,507,146,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/72.jpg1_0.jpg 53,120,63,130,0 96,139,100,143,0 28,279,37,288,0 482,398,485,401,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/50.jpg0_1.jpg 315,21,321,25,0 149,340,158,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/39.jpg0_1.jpg 148,340,157,348,0 440,385,445,395,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/69.jpg0_1.jpg 455,167,458,170,0 183,322,186,325,0 149,341,158,351,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg5_3.jpg 359,271,364,277,0 339,334,345,342,0 463,339,467,343,0 136,505,147,512,0 361,507,364,510,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg5_4.jpg 33,102,40,111,0 306,182,312,188,0 365,302,373,311,0 303,335,308,340,0 244,404,247,408,0 172,429,182,438,0 380,505,390,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/33.jpg1_1.jpg 250,126,254,133,0 408,395,417,405,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/33.jpg0_0.jpg 422,171,429,177,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg0_3.jpg 165,0,173,8,0 252,0,260,3,0 191,4,196,12,0 66,148,74,157,0 302,218,310,227,0 397,273,406,281,0 313,309,320,315,0 353,468,358,474,0 294,471,297,474,0 498,510,507,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/10.jpg0_0.jpg 425,174,431,179,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/20.jpg0_2.jpg 405,204,414,213,0 447,212,454,219,0 198,345,208,353,0 250,421,256,428,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/38.jpg1_0.jpg 311,39,314,42,0 225,80,229,85,0 53,121,63,131,0 94,141,97,144,0 27,280,36,289,0 386,315,389,318,0 383,397,387,401,0 21,406,24,410,0 477,446,480,449,0 99,466,105,469,0 181,470,190,473,0 232,484,236,487,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/64.jpg0_0.jpg 506,124,509,127,0 477,279,486,288,0 314,471,317,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/62.jpg0_1.jpg 313,17,321,26,0 64,277,67,280,0 148,339,157,349,0 382,436,389,443,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/40.jpg1_1.jpg 124,34,127,37,0 398,67,402,72,0 428,116,432,122,0 445,290,451,296,0 485,328,489,332,0 291,361,295,365,0 391,392,394,395,0 277,488,285,493,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/22.jpg2_1.jpg 440,109,445,115,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/78.jpg1_0.jpg 54,120,63,131,0 373,293,377,300,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg3_0.jpg 402,1,411,11,0 365,167,374,175,0 505,217,512,224,0 424,238,428,242,0 462,246,467,250,0 269,258,279,267,0 53,342,63,352,0 319,391,322,394,0 428,464,434,471,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/20.jpg2_0.jpg 419,353,425,359,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg3_3.jpg 499,109,504,114,0 80,418,88,426,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/33.jpg2_1.jpg 210,430,216,436,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/10.jpg2_0.jpg 258,428,265,437,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/21.jpg0_0.jpg 57,43,62,47,0 422,172,429,178,0 448,202,452,208,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/17.jpg0_0.jpg 58,44,62,47,0 423,174,428,178,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/69.jpg1_1.jpg 380,15,385,23,0 126,37,130,42,0 305,37,308,40,0 306,79,309,82,0 418,123,421,126,0 376,335,380,340,0 364,368,368,372,0 470,370,473,373,0 188,475,191,478,0 484,488,491,493,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/56.jpg0_1.jpg 148,342,157,352,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/49.jpg1_0.jpg 213,103,221,112,0 53,126,63,136,0 94,145,99,148,0 404,200,409,207,0 27,284,37,294,0 349,286,354,293,0 423,311,426,315,0 369,312,374,318,0 474,337,481,346,0 477,479,480,482,0 108,484,111,487,0 83,502,89,511,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/41.jpg1_0.jpg 54,122,64,132,0 95,142,100,146,0 28,281,37,291,0 58,473,67,477,0 475,491,478,494,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg5_2.jpg 341,56,345,60,0 219,96,229,101,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/12.jpg1_0.jpg 175,146,179,152,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg0_4.jpg 70,0,73,2,0 352,16,360,24,0 293,18,299,25,0 0,88,5,95,0 390,107,399,117,0 272,157,278,160,0 5,221,15,231,0 458,335,463,340,0 37,368,47,379,0 154,448,164,456,0 182,462,185,466,0 404,475,411,484,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/25.jpg2_1.jpg 440,46,444,51,0 366,447,370,452,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg0_2.jpg 492,61,497,67,0 307,71,311,75,0 275,76,282,84,0 358,89,368,99,0 206,234,212,242,0 134,349,138,352,0 23,403,29,409,0 191,454,195,462,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/19.jpg2_2.jpg 195,191,198,195,0 67,242,72,248,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg2_2.jpg 74,75,77,78,0 472,107,477,111,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/59.jpg0_0.jpg 505,122,512,130,0 478,279,487,289,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg0_0.jpg 466,187,470,190,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/82.jpg1_0.jpg 52,120,62,130,0 230,128,233,131,0 94,139,97,143,0 354,206,358,212,0 436,216,439,220,0 26,278,35,288,0 419,396,429,400,0 387,400,398,404,0 188,467,192,476,0 292,468,298,476,0 476,485,480,491,0 438,490,442,496,0 105,506,112,511,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/30.jpg2_1.jpg 357,247,360,250,0 79,273,88,282,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/30.jpg0_1.jpg 177,170,180,174,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/70.jpg0_0.jpg 478,279,487,288,0 314,468,321,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/42.jpg1_0.jpg 54,122,63,132,0 96,141,100,145,0 28,281,37,291,0 361,293,364,296,0 147,450,150,453,0 98,478,101,481,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg0_1.jpg 430,0,436,4,0 467,0,473,5,0 263,174,271,185,0 295,177,298,180,0 143,293,153,303,0 200,305,208,315,0 40,403,48,412,0 304,405,310,409,0 299,510,303,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/76.jpg1_0.jpg 55,121,65,131,0 28,280,37,289,0 473,356,477,362,0 272,445,280,452,0 107,510,111,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/11.jpg0_2.jpg 198,346,207,353,0 261,401,268,406,0 1,421,6,428,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/8.jpg1_0.jpg 200,288,206,297,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/22.jpg0_2.jpg 198,344,208,351,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/23.jpg0_0.jpg 58,45,61,48,0 423,175,427,179,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/9.jpg0_0.jpg 422,173,429,179,0 15,357,19,362,0 267,501,271,505,0 287,510,290,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/19.jpg0_0.jpg 58,44,62,47,0 422,172,428,178,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/74.jpg1_0.jpg 217,89,226,100,0 53,121,63,131,0 94,140,99,143,0 28,279,37,289,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/47.jpg0_0.jpg 505,126,512,133,0 478,283,488,292,0 284,341,288,347,0 308,389,312,392,0 318,474,322,480,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg4_3.jpg 48,107,56,115,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/12.jpg1_2.jpg 47,279,52,285,0 232,322,239,328,0 479,391,483,395,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg2_2.jpg 390,27,396,31,0 122,90,130,97,0 440,91,444,94,0 445,196,448,199,0 434,317,438,321,0 406,397,411,404,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg2_5.jpg 307,22,316,26,0 98,38,110,42,0 187,39,190,42,0 178,42,181,45,0 57,57,60,60,0 53,63,56,66,0 128,66,131,70,0 36,82,39,86,0 342,83,346,94,0 195,86,205,90,0 482,92,494,96,0 252,96,255,99,0 208,114,212,126,0 390,115,394,125,0 132,118,141,122,0 48,137,51,140,0 203,148,208,156,0 259,166,263,170,0 450,182,460,186,0 35,208,45,212,0 183,342,186,346,0 50,355,54,358,0 24,360,29,368,0 17,394,22,400,0 422,444,426,447,0 320,468,324,476,0 488,474,491,477,0 376,478,380,482,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/32.jpg1_1.jpg 398,357,401,361,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/24.jpg1_1.jpg 401,190,404,193,0 305,472,308,475,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/44.jpg0_1.jpg 149,340,158,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg5_5.jpg 379,62,389,72,0 288,285,291,291,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg5_3.jpg 235,191,239,195,0 358,271,363,279,0 462,334,469,344,0 340,336,344,341,0 377,366,380,369,0 136,505,147,512,0 361,508,364,511,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg3_4.jpg 191,177,198,184,0 491,199,495,202,0 418,234,422,237,0 484,272,490,277,0 312,309,316,312,0 257,313,260,316,0 340,336,348,342,0 332,357,340,364,0 76,369,80,372,0 382,508,391,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg5_1.jpg 429,264,432,267,0 405,324,410,329,0 349,448,354,455,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/60.jpg0_1.jpg 316,19,320,24,0 148,340,157,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/22.jpg0_1.jpg 176,169,180,173,0 103,237,107,241,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/65.jpg1_0.jpg 52,121,62,131,0 230,128,233,131,0 94,140,98,143,0 354,207,359,213,0 433,216,440,226,0 26,279,36,289,0 367,358,372,363,0 387,400,398,404,0 292,468,298,476,0 188,472,192,477,0 476,485,480,491,0 438,491,442,496,0 105,506,113,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg2_4.jpg 121,105,125,111,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg3_1.jpg 142,68,152,78,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/12.jpg0_1.jpg 178,172,181,175,0 180,353,183,356,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/88.jpg1_1.jpg 105,15,112,19,0 69,20,72,23,0 124,32,128,36,0 477,45,481,52,0 417,146,421,152,0 451,166,455,170,0 449,309,453,312,0 468,309,471,312,0 457,329,462,334,0 278,413,284,418,0 318,461,325,468,0 164,490,169,496,0 208,490,216,497,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg0_1.jpg 430,0,436,3,0 467,0,473,5,0 262,175,270,185,0 294,177,298,181,0 142,293,152,303,0 201,311,205,315,0 42,403,47,408,0 447,454,452,459,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/44.jpg0_0.jpg 507,124,510,128,0 478,279,487,288,0 490,405,493,408,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/30.jpg2_2.jpg 106,292,111,296,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg0_5.jpg 157,0,162,7,0 181,13,186,19,0 403,25,412,35,0 132,64,139,72,0 175,90,181,96,0 473,90,477,95,0 40,179,50,189,0 227,210,234,220,0 394,222,401,230,0 354,226,363,236,0 259,300,263,305,0 327,315,332,319,0 404,379,413,390,0 301,380,310,390,0 429,409,432,412,0 410,458,420,467,0 308,460,314,466,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/48.jpg0_1.jpg 241,15,244,18,0 148,342,157,350,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/68.jpg0_0.jpg 478,279,487,289,0 233,399,236,402,0 15,417,19,420,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg2_4.jpg 42,192,52,202,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/61.jpg1_0.jpg 292,29,295,32,0 53,120,63,131,0 231,128,234,131,0 96,140,100,143,0 240,160,243,163,0 378,261,383,270,0 28,279,37,289,0 382,360,387,369,0 369,411,376,421,0 132,488,135,491,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/83.jpg1_1.jpg 204,38,208,43,0 487,40,492,46,0 404,47,408,53,0 412,143,419,153,0 400,330,403,333,0 424,357,429,363,0 466,372,474,380,0 390,382,394,386,0 353,400,361,408,0 318,403,325,411,0 282,406,285,410,0 254,414,260,418,0 292,446,299,453,0 396,451,400,462,0 373,460,376,463,0 372,486,379,490,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/83.jpg1_0.jpg 275,29,280,34,0 56,121,66,131,0 30,279,39,288,0 388,320,394,329,0 380,433,385,441,0 159,450,167,456,0 204,488,209,492,0 487,490,492,496,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg0_3.jpg 164,0,173,8,0 252,0,258,2,0 69,62,72,65,0 65,147,74,156,0 301,216,310,226,0 397,271,406,281,0 312,308,320,315,0 338,352,346,360,0 352,466,360,474,0 293,468,299,475,0 498,509,507,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/40.jpg0_1.jpg 149,339,158,348,0 309,377,314,381,0 363,396,368,401,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/81.jpg0_1.jpg 314,17,320,26,0 149,340,158,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/23.jpg0_1.jpg 345,383,348,386,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/13.jpg0_2.jpg 407,416,414,423,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/86.jpg0_1.jpg 315,21,318,24,0 148,339,157,349,0 325,354,333,358,0 288,357,291,361,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/9.jpg1_2.jpg 300,408,304,412,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/65.jpg0_1.jpg 318,176,325,181,0 148,339,157,348,0 28,389,32,395,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/53.jpg1_0.jpg 52,121,62,131,0 93,140,97,144,0 26,279,36,289,0 83,437,86,440,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/14.jpg0_0.jpg 441,68,445,73,0 421,172,428,178,0 19,360,24,365,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/18.jpg0_0.jpg 444,18,448,24,0 422,171,428,178,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg4_4.jpg 481,102,491,112,0 378,249,388,258,0 348,272,355,279,0 289,309,299,319,0 247,365,256,374,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/26.jpg2_0.jpg 264,376,269,381,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/61.jpg0_0.jpg 505,121,512,130,0 478,279,487,289,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg1_1.jpg 236,66,242,70,0 304,109,314,118,0 185,322,190,328,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/15.jpg2_1.jpg 210,189,217,198,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/32.jpg0_1.jpg 176,168,182,174,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/57.jpg0_1.jpg 322,178,327,182,0 148,342,157,351,0 434,442,438,445,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/24.jpg0_2.jpg 18,202,21,205,0 198,344,208,353,0 462,380,468,385,0 208,417,211,420,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/82.jpg0_0.jpg 504,123,510,128,0 359,161,362,164,0 476,278,486,288,0 232,341,240,345,0 472,435,475,438,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/25.jpg0_1.jpg 176,169,181,174,0 180,353,184,356,0 346,381,349,384,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/35.jpg0_1.jpg 266,46,271,55,0 287,61,291,65,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg2_3.jpg 454,245,458,250,0 62,389,65,392,0 218,442,222,445,0 210,444,214,448,0 28,458,31,461,0 174,460,180,466,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/57.jpg1_1.jpg 154,15,162,20,0 439,147,443,155,0 77,361,80,364,0 324,362,328,366,0 410,362,415,366,0 372,377,375,380,0 361,411,365,415,0 413,412,421,419,0 389,415,396,421,0 347,449,352,454,0 283,453,287,457,0 444,473,447,476,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/10.jpg1_2.jpg 46,171,49,174,0 121,388,128,395,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/9.jpg2_2.jpg 408,138,416,144,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/45.jpg1_1.jpg 418,270,423,274,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/36.jpg1_1.jpg 387,67,391,73,0 468,73,472,77,0 417,270,425,276,0 328,370,336,380,0 341,407,345,411,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/10.jpg2_2.jpg 393,62,399,68,0 224,70,228,77,0 202,251,206,255,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/44.jpg1_0.jpg 260,23,267,31,0 53,120,63,130,0 231,128,234,131,0 95,139,100,143,0 219,149,223,152,0 28,279,37,288,0 40,405,43,408,0 470,487,476,496,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg1_5.jpg 66,69,70,74,0 253,69,260,76,0 23,89,28,94,0 108,218,116,227,0 174,237,184,246,0 96,289,102,294,0 88,313,95,319,0 99,356,107,364,0 328,462,334,467,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/16.jpg0_0.jpg 29,39,32,42,0 57,44,61,47,0 422,173,428,179,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg0_3.jpg 165,0,174,8,0 252,0,259,3,0 192,5,195,9,0 66,121,70,126,0 66,147,75,157,0 301,217,311,227,0 397,272,407,282,0 312,308,320,316,0 340,353,345,360,0 353,466,361,475,0 293,470,299,476,0 501,510,507,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg5_2.jpg 340,59,346,63,0 348,237,352,241,0 155,450,159,454,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/42.jpg0_1.jpg 317,20,320,25,0 149,341,158,351,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/86.jpg1_1.jpg 157,22,166,27,0 373,43,378,49,0 469,58,472,61,0 487,59,493,67,0 454,107,457,110,0 491,142,495,150,0 414,154,420,164,0 489,312,496,320,0 417,349,421,353,0 370,368,376,373,0 390,403,396,409,0 325,420,332,427,0 405,433,408,437,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/12.jpg0_0.jpg 422,172,429,178,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/31.jpg2_2.jpg 45,256,51,263,0 165,359,175,366,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/25.jpg1_2.jpg 500,125,503,129,0 428,377,432,382,0 427,429,430,432,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/29.jpg0_1.jpg 176,169,180,173,0 102,237,108,242,0 181,354,184,357,0 345,380,349,384,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/77.jpg1_1.jpg 93,29,97,32,0 470,66,474,71,0 467,180,471,184,0 291,430,296,435,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/33.jpg1_0.jpg 60,81,63,84,0 448,110,453,115,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/18.jpg2_2.jpg 68,303,73,307,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/34.jpg0_2.jpg 18,201,21,204,0 197,343,208,352,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/14.jpg2_1.jpg 234,13,237,17,0 310,348,314,352,0 269,419,274,424,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg0_5.jpg 154,0,164,10,0 181,13,185,17,0 403,25,411,34,0 471,90,478,96,0 296,131,301,136,0 40,179,50,189,0 227,212,233,220,0 394,223,401,230,0 354,226,362,236,0 258,298,266,306,0 325,314,332,320,0 301,380,309,390,0 407,386,411,390,0 411,457,420,467,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/48.jpg0_0.jpg 505,124,512,131,0 477,280,487,290,0 234,420,237,423,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/83.jpg0_1.jpg 317,18,324,27,0 151,340,160,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/42.jpg1_1.jpg 98,28,101,31,0 448,329,454,335,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/48.jpg1_1.jpg 461,15,466,19,0 298,72,302,76,0 488,112,491,116,0 420,194,423,199,0 492,343,496,347,0 284,405,290,410,0 244,429,250,434,0 306,450,309,453,0 206,463,211,468,0 300,474,306,479,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/56.jpg1_0.jpg 301,41,307,51,0 173,115,178,119,0 53,123,63,133,0 28,282,36,291,0 384,469,393,479,0 222,487,226,492,0 106,509,113,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg5_2.jpg 246,86,250,90,0 450,133,453,136,0 464,204,468,208,0 310,244,314,248,0 330,304,338,311,0 247,305,251,309,0 292,336,295,340,0 192,384,195,387,0 289,403,296,408,0 172,419,176,429,0 138,441,142,444,0 48,452,51,455,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg5_3.jpg 180,29,185,32,0 145,52,148,57,0 418,141,421,144,0 360,272,363,275,0 339,333,346,340,0 463,334,468,343,0 142,431,145,434,0 137,505,147,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/22.jpg0_0.jpg 57,39,63,46,0 132,329,135,333,0 19,363,25,369,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/19.jpg0_2.jpg 468,169,471,173,0 198,345,208,353,0 397,413,402,419,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg2_5.jpg 73,46,78,53,0 456,265,460,270,0 393,310,398,315,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg2_0.jpg 503,342,512,350,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/29.jpg2_0.jpg 436,101,440,107,0 188,300,191,303,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg0_2.jpg 446,5,452,11,0 490,60,498,68,0 306,70,312,76,0 275,76,282,84,0 358,89,368,99,0 0,204,2,211,0 206,235,211,240,0 77,262,81,266,0 22,402,29,410,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/55.jpg1_1.jpg 282,40,289,46,0 492,115,497,123,0 416,279,419,282,0 459,329,466,337,0 127,374,130,378,0 441,389,444,392,0 407,393,414,398,0 192,407,196,411,0 318,407,322,411,0 277,426,287,436,0 241,435,251,445,0 333,440,336,443,0 269,472,274,476,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/21.jpg1_1.jpg 453,23,457,27,0 175,43,180,52,0 30,81,33,85,0 98,116,102,121,0 244,176,248,184,0 111,208,114,212,0 201,363,206,368,0 247,447,257,456,0 165,472,169,476,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/27.jpg1_1.jpg 102,49,106,56,0 114,439,120,448,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/29.jpg1_2.jpg 79,31,84,37,0 336,186,341,191,0 251,218,255,223,0 444,272,449,277,0 414,292,418,295,0 123,330,129,337,0 461,403,467,409,0 37,449,42,453,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/54.jpg1_0.jpg 284,52,290,56,0 54,120,63,131,0 231,128,234,131,0 96,140,99,143,0 28,279,37,288,0 368,398,371,404,0 425,457,428,460,0 132,489,135,492,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/28.jpg2_0.jpg 21,52,25,57,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg3_3.jpg 500,108,505,114,0 412,123,416,126,0 80,417,88,426,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/11.jpg0_1.jpg 176,170,179,173,0 179,352,184,358,0 346,380,350,384,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/41.jpg1_1.jpg 59,22,68,27,0 474,41,478,46,0 270,54,273,57,0 468,90,473,98,0 441,307,445,311,0 421,336,429,342,0 355,337,363,346,0 369,368,373,372,0 334,381,338,384,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/38.jpg0_1.jpg 319,176,326,181,0 148,341,157,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg1_5.jpg 66,68,71,74,0 253,70,259,76,0 24,90,27,94,0 322,90,326,95,0 22,187,25,190,0 109,219,116,227,0 175,237,185,246,0 97,290,102,295,0 88,313,95,319,0 122,326,125,330,0 99,356,107,365,0 196,409,200,414,0 270,425,274,430,0 331,464,335,467,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/21.jpg2_0.jpg 88,111,97,121,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/30.jpg1_2.jpg 339,86,344,92,0 411,311,418,316,0 109,320,115,326,0 351,403,354,407,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/27.jpg0_1.jpg 368,228,371,231,0 347,380,352,385,0 345,411,348,414,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/14.jpg1_1.jpg 102,449,106,453,0 141,494,144,497,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg1_0.jpg 260,226,268,235,0 228,305,235,311,0 482,463,489,472,0 331,480,334,483,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg1_2.jpg 0,1,9,12,0 40,60,48,69,0 33,86,36,90,0 213,327,221,338,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/35.jpg0_2.jpg 489,266,494,271,0 451,269,454,272,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/46.jpg1_0.jpg 173,116,178,120,0 54,125,64,135,0 28,284,37,293,0 490,404,493,407,0 434,426,438,430,0 300,447,307,453,0 96,479,100,483,0 83,502,90,512,0 106,508,114,512,0 62,510,65,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg3_1.jpg 142,68,152,78,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/26.jpg0_0.jpg 58,43,62,48,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg1_1.jpg 17,0,23,5,0 237,66,243,70,0 304,108,313,119,0 184,322,190,328,0 0,452,7,459,0 262,471,270,477,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/32.jpg0_2.jpg 198,344,208,352,0 446,354,452,363,0 1,422,6,429,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg1_2.jpg 0,0,10,11,0 282,43,286,48,0 41,61,48,67,0 225,99,230,106,0 213,327,221,337,0 32,507,37,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg1_4.jpg 221,11,230,19,0 375,74,382,83,0 277,92,282,97,0 325,166,334,170,0 496,192,499,199,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg5_3.jpg 199,89,202,92,0 359,271,363,278,0 462,336,467,343,0 377,366,381,370,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/62.jpg1_0.jpg 251,63,257,71,0 52,120,63,131,0 95,139,99,143,0 324,228,333,237,0 344,267,348,272,0 27,278,37,288,0 353,287,358,292,0 372,402,375,405,0 174,460,183,465,0 233,463,243,467,0 123,485,126,489,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/8.jpg2_0.jpg 95,171,102,180,0 113,413,116,417,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/20.jpg0_1.jpg 102,238,107,242,0 345,380,350,385,0 343,412,346,415,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/18.jpg1_2.jpg 303,200,306,204,0 369,398,372,401,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg0_2.jpg 447,7,450,10,0 491,59,497,67,0 307,70,311,74,0 277,77,281,83,0 358,88,368,98,0 205,233,212,241,0 22,402,29,409,0 191,453,196,461,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/87.jpg1_1.jpg 206,422,210,425,0 236,460,239,463,0 227,483,235,491,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/70.jpg1_0.jpg 53,121,62,131,0 28,279,37,288,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/53.jpg0_1.jpg 316,18,319,23,0 319,176,324,180,0 147,339,156,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg1_3.jpg 178,83,187,94,0 262,107,273,118,0 244,163,254,173,0 165,379,170,385,0 221,460,230,469,0 171,490,177,495,0 48,510,56,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/80.jpg0_0.jpg 477,281,487,291,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg0_4.jpg 70,0,73,2,0 353,16,361,25,0 293,20,299,26,0 0,90,5,97,0 68,94,71,97,0 390,108,399,117,0 6,222,14,231,0 38,369,47,379,0 155,448,165,457,0 181,462,187,470,0 403,476,413,485,0 7,502,11,509,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/49.jpg1_1.jpg 476,28,480,32,0 108,34,111,37,0 491,62,496,72,0 485,148,490,154,0 478,318,482,321,0 452,333,455,337,0 173,376,176,379,0 321,393,330,404,0 239,435,245,440,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/76.jpg0_1.jpg 315,20,321,26,0 149,341,158,350,0 225,357,231,365,0 355,368,360,374,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg3_4.jpg 191,177,198,183,0 382,507,390,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/13.jpg0_0.jpg 58,43,63,48,0 422,172,429,178,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/8.jpg2_2.jpg 405,64,409,68,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg5_3.jpg 358,270,363,278,0 339,334,345,341,0 462,335,467,342,0 377,365,380,368,0 140,510,143,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg5_1.jpg 429,264,433,268,0 406,323,410,328,0 255,325,258,328,0 348,446,354,454,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/1.jpg3_4.jpg 189,177,196,183,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg4_3.jpg 48,108,56,116,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/16.jpg0_1.jpg 102,237,107,242,0 180,354,183,357,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/79.jpg1_1.jpg 332,19,335,22,0 246,45,250,49,0 446,91,451,99,0 448,131,452,136,0 474,176,479,182,0 426,188,430,193,0 416,268,421,274,0 418,299,421,302,0 450,326,459,334,0 430,368,438,375,0 351,370,359,377,0 382,382,387,388,0 491,387,497,396,0 150,403,154,406,0 298,466,303,470,0 202,470,208,477,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/85.jpg1_1.jpg 320,94,323,97,0 302,358,310,365,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/62.jpg1_1.jpg 238,15,241,18,0 123,36,126,39,0 410,48,413,51,0 471,67,475,72,0 465,87,469,93,0 356,93,360,99,0 392,349,395,352,0 347,352,352,358,0 413,369,420,375,0 340,405,343,408,0 275,424,285,434,0 221,433,229,443,0 191,450,200,460,0 252,450,260,456,0 461,478,470,484,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/79.jpg0_1.jpg 313,21,320,27,0 148,339,157,348,0 376,385,381,389,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/75.jpg0_1.jpg 314,17,321,26,0 148,341,158,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/28.jpg0_1.jpg 188,232,193,235,0 395,309,398,313,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg3_1.jpg 428,14,434,21,0 142,68,151,78,0 91,73,96,77,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/31.jpg0_0.jpg 58,44,61,47,0 422,172,428,178,0 131,330,135,333,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg5_4.jpg 361,55,365,62,0 32,102,41,112,0 364,302,373,312,0 381,509,388,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg4_4.jpg 481,102,491,112,0 378,248,388,259,0 348,272,356,278,0 289,309,299,319,0 247,364,256,373,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/80.jpg1_1.jpg 94,28,100,32,0 123,36,126,40,0 493,47,496,50,0 510,295,512,298,0 384,382,388,386,0 61,384,65,387,0 321,389,324,392,0 358,411,365,415,0 219,441,224,446,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/64.jpg1_1.jpg 98,23,101,27,0 440,322,443,326,0 491,352,494,356,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/21.jpg0_2.jpg 404,69,414,74,0 198,344,208,353,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/27.jpg0_2.jpg 200,343,209,350,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/53.jpg1_1.jpg 374,87,381,93,0 492,165,497,173,0 365,333,369,336,0 75,357,78,360,0 340,376,344,380,0 86,404,90,408,0 390,438,395,442,0 444,489,448,492,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/4.jpg4_2.jpg 289,292,295,298,0 300,387,305,395,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/22.jpg1_1.jpg 159,186,162,192,0 256,356,259,359,0 111,411,116,417,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/2.jpg5_4.jpg 361,57,364,61,0 31,102,41,112,0 364,303,372,312,0 379,507,390,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/82.jpg0_1.jpg 318,176,325,181,0 148,340,156,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/30.jpg0_0.jpg 58,44,62,47,0 423,173,427,177,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/81.jpg1_1.jpg 434,164,437,167,0 318,276,321,279,0 419,307,423,311,0 392,324,397,328,0 373,345,379,351,0 417,397,424,403,0 245,462,254,470,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg3_3.jpg 112,19,115,22,0 500,109,503,112,0 114,314,118,318,0 78,418,85,426,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/3.jpg5_1.jpg 429,263,432,268,0 349,295,352,298,0 407,322,410,326,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/86.jpg0_0.jpg 146,176,150,180,0 477,279,487,288,0 375,362,378,367,0 330,411,337,416,0 462,457,466,460,0 235,468,238,472,0 315,471,318,474,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/31.jpg1_1.jpg 74,148,80,158,0 374,334,379,340,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/14.jpg2_0.jpg 410,236,415,240,0 131,248,139,258,0 318,268,322,273,0 232,460,238,467,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/21.jpg2_1.jpg 390,336,395,341,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/61.jpg0_1.jpg 149,340,158,349,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/14.jpg1_2.jpg 141,44,144,47,0 322,218,327,222,0 330,320,335,325,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg0_5.jpg 155,0,165,10,0 181,13,187,20,0 404,26,413,36,0 133,65,139,74,0 176,90,181,97,0 473,90,478,96,0 0,130,3,138,0 40,180,50,190,0 226,211,234,221,0 393,224,401,232,0 354,227,363,237,0 258,300,265,306,0 326,315,333,320,0 301,380,309,391,0 405,381,414,392,0 411,459,420,468,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/24.jpg2_1.jpg 289,281,293,285,0 405,344,410,352,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/64.jpg1_0.jpg 53,120,62,129,0 96,138,100,142,0 27,279,36,287,0 98,473,101,476,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/18.jpg0_1.jpg 175,169,180,174,0 179,353,183,357,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/5.jpg5_0.jpg 112,106,120,112,0 70,116,74,121,0 28,174,31,177,0 461,289,470,298,0 377,322,381,327,0 408,350,416,356,0 450,361,454,366,0 439,413,444,419,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/52.jpg1_1.jpg 465,33,470,40,0 171,37,178,42,0 475,62,482,69,0 422,173,426,179,0 296,413,300,419,0 322,437,325,440,0 266,447,276,455,0 304,455,307,458,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/512NIRgb/crop/0.jpg4_3.jpg 48,110,55,116,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg3_3.jpg 408,122,417,129,0 81,419,87,424,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/5.jpg1_1.jpg 5,259,9,263,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg5_3.jpg 359,271,363,279,0 462,334,469,344,0 377,365,381,370,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/0.jpg1_1.jpg 216,53,223,59,0 169,120,172,123,0 203,157,207,161,0 463,216,467,220,0 455,243,461,249,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg0_3.jpg 253,0,258,2,0 168,2,172,7,0 65,148,74,157,0 301,217,310,227,0 397,272,407,282,0 311,308,321,317,0 353,467,361,475,0 293,470,298,475,0 502,510,506,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg4_4.jpg 290,310,300,320,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/5.jpg0_2.jpg 158,30,162,34,0 198,345,208,352,0 1,421,7,430,0 8,456,11,460,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/5.jpg0_0.jpg 422,171,428,178,0 38,256,42,260,0 267,499,271,505,0 286,509,290,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg4_4.jpg 481,102,490,112,0 378,249,387,259,0 347,271,356,280,0 289,310,300,320,0 248,363,257,373,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/12.jpg0_2.jpg 197,346,207,354,0 1,455,8,461,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg0_2.jpg 278,79,282,84,0 358,89,368,99,0 0,206,2,209,0 147,387,150,393,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg0_1.jpg 489,309,492,314,0 448,458,452,462,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg3_1.jpg 142,68,152,77,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/4.jpg2_2.jpg 48,96,56,103,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/10.jpg1_1.jpg 167,455,171,459,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/11.jpg1_0.jpg 52,121,61,131,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/5.jpg0_1.jpg 345,161,348,165,0 94,200,97,203,0 142,325,147,329,0 179,336,182,339,0 158,480,162,484,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/7.jpg0_1.jpg 147,342,156,350,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg0_2.jpg 448,8,451,11,0 492,60,497,68,0 308,72,311,75,0 276,77,282,83,0 358,89,369,98,0 89,195,93,198,0 0,205,3,213,0 100,229,108,234,0 206,233,212,242,0 22,404,29,411,0 192,454,196,461,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg1_4.jpg 221,11,230,17,0 171,39,176,44,0 377,74,382,84,0 235,85,241,94,0 330,282,339,290,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/4.jpg1_0.jpg 392,476,396,479,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg4_3.jpg 49,108,55,115,0 317,214,321,220,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/10.jpg1_0.jpg 368,214,375,219,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg4_5.jpg 361,152,370,158,0 343,222,354,232,0 313,432,321,441,0 284,462,293,470,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/8.jpg0_0.jpg 422,172,428,178,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/0.jpg0_0.jpg 508,126,512,133,0 310,180,314,187,0 481,283,488,290,0 128,336,133,343,0 121,429,125,434,0 346,476,349,479,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg0_3.jpg 251,0,259,3,0 400,275,403,278,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/3.jpg0_1.jpg 263,367,272,373,0 184,412,193,418,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg1_2.jpg 0,3,9,13,0 42,60,47,68,0 214,328,220,338,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/2.jpg1_0.jpg 54,124,63,133,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg4_0.jpg 108,55,118,65,0 79,65,89,75,0 349,191,355,200,0 74,220,78,225,0 51,262,56,269,0 163,411,169,419,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg3_1.jpg 426,15,435,24,0 140,69,150,79,0 361,214,367,223,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/8.jpg0_2.jpg 159,30,162,33,0 198,345,208,353,0 1,422,7,430,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/3.jpg0_0.jpg 126,335,131,340,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg3_3.jpg 500,109,504,113,0 79,418,86,425,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg5_5.jpg 380,62,388,71,0 190,111,193,114,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg1_1.jpg 235,66,243,72,0 305,111,309,117,0 206,293,210,297,0 39,309,42,314,0 0,453,8,463,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg0_4.jpg 353,17,361,25,0 293,20,298,25,0 1,92,5,96,0 390,108,399,118,0 7,222,13,230,0 38,369,47,379,0 155,449,164,458,0 181,461,186,469,0 404,477,411,484,0 291,510,294,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg1_1.jpg 260,102,263,105,0 304,109,313,118,0 185,322,190,328,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg1_2.jpg 0,3,9,13,0 41,60,48,68,0 214,328,221,338,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg5_0.jpg 407,352,415,358,0 448,364,455,370,0 437,414,444,422,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg2_1.jpg 359,316,363,319,0 321,410,327,413,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/12.jpg2_0.jpg 366,168,369,171,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg3_4.jpg 234,106,237,109,0 194,179,197,182,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg1_0.jpg 259,159,267,167,0 307,223,310,226,0 259,229,268,237,0 227,306,234,312,0 48,352,54,359,0 142,435,150,443,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg0_1.jpg 208,110,216,117,0 20,126,23,130,0 263,174,271,185,0 142,293,152,303,0 304,405,309,409,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg1_3.jpg 178,85,185,92,0 263,107,272,117,0 245,163,254,173,0 165,377,171,385,0 220,460,230,469,0 172,489,177,494,0 53,510,56,512,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/1.jpg4_2.jpg 269,353,272,357,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg1_5.jpg 254,69,260,77,0 66,70,69,73,0 21,89,29,97,0 0,115,2,121,0 109,220,116,228,0 174,238,184,247,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/4.jpg0_1.jpg 370,34,374,39,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg4_4.jpg 484,104,487,107,0 379,250,385,257,0 347,270,356,276,0 289,309,299,318,0 248,362,255,373,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/11.jpg1_1.jpg 196,144,199,147,0 153,189,158,192,0 267,278,271,282,0 331,397,341,405,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/9.jpg1_3.jpg 432,456,440,464,0 221,461,230,467,0 171,489,176,494,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg4_5.jpg 343,222,353,231,0 313,433,321,439,0 285,462,290,468,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg2_0.jpg 502,342,512,351,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg0_3.jpg 252,0,259,3,0 167,4,172,10,0 191,4,195,11,0 65,149,74,157,0 301,217,310,227,0 397,272,407,282,0 311,308,320,316,0 354,468,357,473,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/10.jpg0_0.jpg 127,338,131,342,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg4_0.jpg 40,235,44,240,0 52,262,57,268,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/7.jpg1_1.jpg 292,249,298,255,0 410,342,413,345,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/6.jpg0_5.jpg 156,3,163,10,0 182,14,185,17,0 403,25,412,35,0 131,64,140,74,0 176,89,184,97,0 471,89,479,98,0 398,223,401,226,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/4.jpg0_0.jpg 370,484,374,489,0 
+/home/zyh/ICECAP/DataSet/test_dataset/Dataset/winter_nirgb/crop/2.jpg0_1.jpg 148,343,157,352,0 

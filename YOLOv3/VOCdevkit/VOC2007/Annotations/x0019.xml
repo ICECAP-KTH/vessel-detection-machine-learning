@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coast_ship</folder>
+	<filename>x0019.png</filename>
+	<path>C:\Users\Tofahito\Documents\PHD\barcos\etiquetas\coast_ship\x0019.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>95</ymin>
+			<xmax>175</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
